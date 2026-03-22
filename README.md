@@ -1,7 +1,7 @@
 <!DOCTYPE html>
 <html>
 <head>
-<title>Title of the Document</title>
+<title>     </title>
 <meta charset="UTF-8" />
 <!-- Other meta tags, links, and scripts go here -->
 </head>
